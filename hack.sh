@@ -9,7 +9,7 @@ banner() {
 
 
 printf "\e[1;92m                \e[0m\e[1;77m ____ _                          \e[0m\n"
-printf "\e[1;92m ██10%
+printf "\e[1;92m ██☆☆
 Sh \e[0m\e[1;77m/   \e[0m\n"
 printf "\e[1;92m ____  _                _
 / ___|| |__   __ _ _ __(_) __ _ _ __
